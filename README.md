@@ -58,8 +58,23 @@ Learn and apply tree-based models (Decision Trees & Random Forests) for classifi
 
 ---
 
+
 ## 📜 How to Run
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-python task5_decision_tree_random_forest.py
+. pip install pandas numpy matplotlib seaborn scikit-learn
+. python task5_decision_tree_random_forest.py
+
+----
+
+## What I Learned:
+
+. How to visualize feature importance for Random Forests.
+
+. The trade-off between model complexity and overfitting in Decision Trees.
+
+. How to use cross-validation for more reliable accuracy estimates.
+
+
+---
+
 

@@ -1,4 +1,4 @@
-# Task 5 – Decision Trees & Random Forests (AI & ML Internship)
+#  Decision Trees & Random Forests (AI & ML Internship)
 
 ## 📌 Objective
 Learn and apply tree-based models (Decision Trees & Random Forests) for classification tasks. Perform EDA, control overfitting, interpret feature importance, and evaluate using cross-validation.
@@ -62,3 +62,4 @@ Learn and apply tree-based models (Decision Trees & Random Forests) for classifi
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 python task5_decision_tree_random_forest.py
+
